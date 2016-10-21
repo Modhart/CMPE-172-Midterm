@@ -1,3 +1,5 @@
 BUY/SELL, Amount, Denomination
 buy,10,BTC
-sell,100,BTC
+sell,50,BTC
+buy,26,USD
+sell,30,EUR
